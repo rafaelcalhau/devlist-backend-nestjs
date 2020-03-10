@@ -15,6 +15,10 @@ $ cd devlist-backend
 $ yarn # or npm install
 ```
 
+## Enviroment variables
+
+If you need to use .env file, you can just rename the file .env.example.
+
 ## Running the app
 
 ```bash
